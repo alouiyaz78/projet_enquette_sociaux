@@ -49,4 +49,5 @@ Ce projet vise à automatiser la collecte, le traitement et la visualisation des
 Ce projet vise à collecter et analyser les données d'une enquête en ligne automatisée.  
 Voici un aperçu du tableau de bord des résultats obtenus :
 
-![Tableau de bord des résultats]C:\Users\User\Downloads\Résultats_enquette_sociaux_économique.png
+<img width="1744" height="2254" alt="image" src="https://github.com/user-attachments/assets/8ee251c9-9c8e-4926-b1dc-a5d99f464241" />
+
